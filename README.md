@@ -27,7 +27,7 @@ The following machine learning models were evaluated:
 ### Results
 | Model          | MAE    | RMSE   | R² Score |
 |----------------|--------|--------|----------|
-| Const(mean)    | 0.873  | 1.130  | -0.000   |
+| Const(mean)    | 0.873  | 1.130  | 0.000   |
 | Ridge (L2-reg) | 0.712  | 0.936  | 0.313    |
 | Decision Tree  | 0.649  | 0.883  | 0.388    |
 | Random Forest  | 0.605  | 0.833  | 0.457    |
